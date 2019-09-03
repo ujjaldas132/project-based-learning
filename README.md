@@ -302,8 +302,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 * [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * Create a chat Bot In Python
-    *[chat bot 1](https://towardsdatascience.com/build-your-first-chatbot-using-python-nltk-5d07b027e727)
-    *[chat bot 2](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
+    * [chat bot 1](https://towardsdatascience.com/build-your-first-chatbot-using-python-nltk-5d07b027e727)
+    * [chat bot 2](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 
 ### Data Science:
 
